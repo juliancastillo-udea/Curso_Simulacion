@@ -1,25 +1,26 @@
 <div>
-<table border="0" style="width: 100%; text-align: center;">
-    <thead>
-        <tr>
-            <td rowspan="3" style="width: 20%;">
-                <img alt="UdeA" height="200px" src="https://raw.githubusercontent.com/juliancastillo-udea/Curso_Simulacion/refs/heads/main/images/Escudo-UdeA.svg">
-            </td>
-            <td style="width: 60%;">
-                <h1 style="margin: 0;"><b>Simulación</b></h1>
-                <h2 style="margin: 0;">Ingeniería Industrial UdeA</h2>
-            </td>
-            <td rowspan="3" style="width: 20%;">
-                <img alt="II" height="200px" src="https://raw.githubusercontent.com/juliancastillo-udea/Curso_Simulacion/refs/heads/main/images/Ingenier%C3%ADa_Industrial_UdeA.png">
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <img alt="I&S" height="135px" src="https://raw.githubusercontent.com/juliancastillo-udea/Curso_Simulacion/refs/heads/main/images/IS.png">
-            </td>
-        </tr>
-    </thead>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/juliancastillo-udea/Curso_Simulacion/refs/heads/main/images/Escudo-UdeA.svg" alt="UdeA" height="200px">
+    </td>
+    <td align="center">
+      <h1 style="margin: 0;">Simulación</h1>
+      <h2 style="margin: 0;">Ingeniería Industrial UdeA</h2>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/juliancastillo-udea/Curso_Simulacion/refs/heads/main/images/Ingenier%C3%ADa_Industrial_UdeA.png" alt="II" height="200px">
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/juliancastillo-udea/Curso_Simulacion/refs/heads/main/images/IS.png" alt="I&S" height="135px">
+    </td>
+    <td></td>
+  </tr>
 </table>
+
 
 
 </div>
