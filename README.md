@@ -20,11 +20,6 @@
     <td></td>
   </tr>
 </table>
-
-
-
-</div>
-
 <hr size=10 noshade color="green">
 <p>
 <img alt="CC" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/Curso_Simulacion/refs/heads/main/images/by.xlarge.png" align="left" hspace="0px" vspace="0px">
