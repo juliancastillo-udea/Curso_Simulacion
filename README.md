@@ -36,3 +36,16 @@
 <h2> <b> Monitor: Manuel Martínez. </b> </h2>
 <a href="mailto:manuel.martinezl@udea.edu.co"> ✉ Manuel Martínez </a>
 </div>
+
+El presente curso está basado en los siguientes libros y documentos:
+*   Banks, J. (2010). Discrete Event system Simulation. In Encyclopedia of Information Systems. https://doi.org/10.1016/b0-12-227240-4/00045-9
+*   Hillier, F. S., & Lieberman, G. J. (2010). Introducción a la Investigación de Operaciones (McGRAW-HILL (ed.); Novena Edi). McGRAW-HILL.
+*   Python Website. (2021). Python 3.9.1 documentation. Retrieved February 03, 2021, from https://docs.python.org/
+*   W3schools.com. (2021). Python tutorial. Retrieved February 04, 2021, from https://www.w3schools.com/python/default.asp
+*   Martelli, A., Ravenscroft, A., & Ascher, D. (2005). Python cookbook. " O'Reilly
+*   VanderPlas, J. (2016). Python data science handbook: Essential tools for working with data. " O'Reilly Media, Inc.".
+*   realpython.com. (2021). Real Python Tutorials. Retrieved February 04, 2021, from https://realpython.com/
+*   Sweigart, A. (2019). Automate the boring stuff with Python: practical programming for total beginners. No Starch Press.
+*   Ziadé, T. (2008). Expert Python Programming. Packt Publishing Ltd.
+*   Pilgrim, M., & Willison, S. (2009). Dive Into Python 3 (Vol. 2). Apress.
+*   Cairo, B. (2005). Metodología de la Programación: Algoritmos, diagramas de flujo y programas. Alfaomega.
